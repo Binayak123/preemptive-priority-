@@ -1,4 +1,3 @@
-//Question no -1 Krishna gopal pal A01
 #include<stdio.h>
 int main()
 {
